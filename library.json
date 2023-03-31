@@ -1,0 +1,14 @@
+{
+  "name": "MyArduinoPicoRgbKeypad",
+  "keywords": "Apa102, TCA95555, Pico, Raspbery Pi Pico",
+  "description": "My example code for the Pico RGB Keypad.",
+  "homepage": "",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/andersarstrand/My-Arduino-Pico-RGB-Keypad"
+  },
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
